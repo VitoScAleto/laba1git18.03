@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #include <iostream>
 #include <stdio.h>
 #include <cmath>
@@ -151,4 +148,3 @@ float fLenDioganal(int width, int height){
 
     return sqrt(pow(width, 2) + pow(height, 2));
 }
->>>>>>> developVitalya
