@@ -6,7 +6,7 @@
 using namespace std;
 
 void circle();
-int CheckAngle(float alfa);// function
+int CheckAngle(float alfa);// function1
 int CheckRadius(float R);
 
 void rectangle();
