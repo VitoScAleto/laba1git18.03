@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 
-=======
 #include <iostream>
 #include <stdio.h>
 #include <cmath>
@@ -8,7 +6,7 @@
 using namespace std;
 
 void circle();
-int CheckAngle(float alfa);
+int CheckAngle(float alfa);// function
 int CheckRadius(float R);
 
 void rectangle();
@@ -151,4 +149,3 @@ float fLenDioganal(int width, int height){
 
     return sqrt(pow(width, 2) + pow(height, 2));
 }
->>>>>>> developVitalya
